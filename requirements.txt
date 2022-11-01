@@ -4,3 +4,4 @@ mediapipe
 numpy
 Pillow
 pandas
+gunicorn==19.9.0
